@@ -1,3 +1,6 @@
 hello!! Github
 
 I learn how to use Git.
+I newly make the branch_a.
+And i work threr.
+
